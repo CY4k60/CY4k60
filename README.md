@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CY4k60/CY4k60/output/snake.svg" alt="Snake animation" />
-
 ###
